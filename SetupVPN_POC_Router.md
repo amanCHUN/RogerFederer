@@ -25,7 +25,7 @@ PS：以上第2、3、4步骤可以通过导入配置完成。
 
 目前在windows7中连接VPN成功，macOS系统需要使用l2tpnoipsec方式连接，但由于系统升级已经不能连接。
 
-代替1中VPN客户端软件，最新软件连接如下：
+代替1中VPN客户端软件，可以使用在win0系统，最新软件连接如下：
 
 链接:https://pan.baidu.com/s/1k3ru7XWDZuHo-aDiS_TAIg  密码:rv7z
 
